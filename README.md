@@ -16,3 +16,7 @@ Data Science
 * **Data Analysis**
 
   * Cohort Analysis: https://medium.com/analytics-for-humans/what-is-cohort-analysis-and-how-should-i-use-it-3ac7c39c50dd
+
+Desing Patterns
+---------------
+  * https://refactoring.guru/design-patterns/strategy
