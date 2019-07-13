@@ -9,6 +9,9 @@ Programmig Languages
 
   * Sequences and collection operations: https://typealias.com/guides/kotlin-sequences-illustrated-guide/
 
+* **Clojure**
+  * Clojure for Brave and True: https://www.braveclojure.com/
+
 
 Data Science
 -------------
@@ -19,4 +22,4 @@ Data Science
 
 Design Patterns
 ---------------
-  * https://refactoring.guru/design-patterns/strategy
+  * Everything I need to know: https://refactoring.guru/design-patterns
