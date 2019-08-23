@@ -23,3 +23,7 @@ Data Science
 Design Patterns
 ---------------
   * Everything I need to know: https://refactoring.guru/design-patterns
+
+Object-oriented Design
+---------------
+  * https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
