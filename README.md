@@ -8,6 +8,7 @@ Programmig Languages
 * **Kotlin**
 
   * Sequences and collection operations: https://typealias.com/guides/kotlin-sequences-illustrated-guide/
+  * Initializers: https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546
 
 * **Clojure**
   * Clojure for Brave and True: https://www.braveclojure.com/
