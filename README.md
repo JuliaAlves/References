@@ -25,6 +25,7 @@ Design Patterns
 ---------------
   * Everything I need to know: https://refactoring.guru/design-patterns
 
-Object-oriented Design
+Others
 ---------------
-  * https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+  * S.O.L.I.D: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+  * Technical Debt: https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700
