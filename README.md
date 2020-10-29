@@ -24,6 +24,10 @@ Data Science
 Design Patterns
 ---------------
   * Everything I need to know: https://refactoring.guru/design-patterns
+  
+AWS
+---------------
+  * doc compilation: https://github.com/brunokktro/auladobruno
 
 Others
 ---------------
