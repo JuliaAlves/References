@@ -33,3 +33,4 @@ Others
 ---------------
   * S.O.L.I.D: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
   * Technical Debt: https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700
+  * CAP: http://ksat.me/a-plain-english-introduction-to-cap-theorem
